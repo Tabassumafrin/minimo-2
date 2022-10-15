@@ -1,1 +1,1 @@
-# minimo-full
+# minimo-2
